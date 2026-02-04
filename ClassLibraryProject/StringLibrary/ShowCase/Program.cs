@@ -25,7 +25,7 @@ class Program
         {
             if (row > 0)
             {
-                Console.WriteLine("Press any key to continue...");
+                Console.WriteLine("Press any key to continue..");
                 Console.ReadKey();
             }
             Console.Clear();
